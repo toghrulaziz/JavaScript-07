@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.number-container {
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    width: 200px;
+    font-size: 24px;
+}
+
+.generate-button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
